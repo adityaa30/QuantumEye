@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".PlayerActivity">
+
+    <item
+        android:id="@+id/menu_main_open_scanner"
+        android:title="Open Scanner"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_main_clear_list"
+        android:title="Clear List"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_main_logout"
+        android:title="Log Out"
+        app:showAsAction="never"/>
+
+
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "854521517734",
+    "firebase_url": "https://quantumeye-46d68.firebaseio.com",
+    "project_id": "quantumeye-46d68",
+    "storage_bucket": "quantumeye-46d68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854521517734:android:fa58f44c522c009f",
+        "android_client_info": {
+          "package_name": "com.example.aditya.quantumeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854521517734-4rcsdduecqp3vbquk08udkcqug2cau7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aditya.quantumeye",
+            "certificate_hash": "b55e81d3cd07c1cb51e4ddb2abe13faa921a2eea"
+          }
+        },
+        {
+          "client_id": "854521517734-qe6t2cvb0q1l2g44qdhp7oqf1scaoerb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOgPQKaNyxlsnA_pu72PQvNyNGvyVfn_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854521517734-qe6t2cvb0q1l2g44qdhp7oqf1scaoerb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
